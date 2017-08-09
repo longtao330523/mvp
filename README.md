@@ -14,6 +14,7 @@ Menggunakan:
 xiugai
 feature1
 develop1
+remote feature2
 # mvp
 
 
