@@ -8,6 +8,7 @@ apapun bentuk pertanyaan, silahkan buat issue.
 
 Menggunakan:
 - [x] RxJava
+develop1
 
 @isfaaghyth.bihao
 xiugai
