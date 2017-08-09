@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # MVP
 Dasar arsitektur MVP
 
@@ -9,3 +10,23 @@ Menggunakan:
 - [x] RxJava
 
 @isfaaghyth.
+=======
+# mvp
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+tggggg
+>>>>>>> e0e048fac91d0a30dc12dec26977a75baba3140a
